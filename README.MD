@@ -55,7 +55,7 @@ This score can be used for initial creditworthiness analysis or DeFi risk predic
 
 ---
 
-**Prepared by:** Thanusri Reddy  
+**Prepared by:** Thanu Sri Reddy  
 **Assignment:** Wallet Risk Scoring - Round 2  
 **Date:** July 2025  
 EOF
