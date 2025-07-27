@@ -3,7 +3,7 @@ import requests
 import time
 import json
 
-API_KEY = 'I4ASD4SXBN3YWENH6J1CNJRHRGNPZ9MV31'  # Replace with your real Etherscan API key
+API_KEY = 'YOUR_ETHERSCAN_API_KEY'  # Replace with your real Etherscan API key
 
 def get_transactions(wallet):
     url = f"https://api.etherscan.io/api?module=account&action=txlist&address={wallet}&startblock=0&endblock=99999999&sort=asc&apikey={API_KEY}"
